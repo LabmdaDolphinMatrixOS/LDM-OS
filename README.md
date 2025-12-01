@@ -4,8 +4,6 @@
 #Save ldmos.py to emulated/0/Documents/LambdaOS/
 #Launch in termux:
 #cd ~ && termux-setup-storage && pkg install python -y && cp /storage/emulated/0/Documents/LambdaOS/ldmos.py ~/ && python ~/ldmos.py
-#-y
-#hit enter
-#it should run now
+#It should run now.
 
-Currently in early development
+Under Construction🏗️
