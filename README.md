@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/280f9640-a558-44cf-bbf4-f697efd09c94
+
 # Dolphin Lambda Matrix λOS
 #A complete OS, boot, programming language in one .py
 #Download Termux
